@@ -28,6 +28,10 @@ To stage the changes:
 
     git add <filename>
 
+To stage all the changes:
+
+    git add *
+
 To commit the changes:
 
     git commit -m "commit message"
