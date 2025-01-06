@@ -28,3 +28,13 @@ To stage the changes:
 
     git add <filename>
 
+To commit the changes:
+
+    git commit -m "commit message"
+
+To push the changes:
+
+    git push origin <sourceBranch>
+
+        class01 -> main
+        ex: git push origin class01
