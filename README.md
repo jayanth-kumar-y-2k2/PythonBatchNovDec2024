@@ -79,3 +79,17 @@ To create new branch
     01. Introduction
         Importance of Python
         Two versions of Python (2.x & 3.x)
+
+[class 02](link)
+
+        PEP 8 Guidelines (https://peps.python.org/pep-0008/)
+        Shebang Line
+        Indentation issue and best practices
+        built-in functions
+        print function
+        Script mode vs interactive mode
+        Jupyter notebook usage
+        Ascii and unicode characters
+        Comment Operator
+        Keywords and Identifiers
+        Line continuation and statement separator operators
