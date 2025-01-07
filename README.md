@@ -90,6 +90,21 @@ To create new branch
         Script mode vs interactive mode
         Jupyter notebook usage
         Ascii and unicode characters
+
+[class 03](link)
+
         Comment Operator
         Keywords and Identifiers
         Line continuation and statement separator operators
+
+    02.Basics
+        Arithmetic operations
+            +, -, *, /, //, %
+            divmod() function
+            Practical Problem solving
+
+[class 04](link)
+
+            Working with comple numbers
+            abs() function
+            Operator precedence in arithmetic operations
