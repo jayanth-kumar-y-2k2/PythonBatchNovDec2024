@@ -109,3 +109,14 @@ To create new branch
             Working with complex numbers
             abs() function
             Operator precedence in arithmetic operations
+
+    Assignments:
+        1) Savings Bank
+        2) Bank loan
+            simple interest
+            compound interest
+        3) convert from hex to oct, vice versa
+        4) feet to cms conversion
+
+[class 05](link)
+
