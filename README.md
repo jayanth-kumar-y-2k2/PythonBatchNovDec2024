@@ -101,10 +101,11 @@ To create new branch
         Arithmetic operations
             +, -, *, /, //, %
             divmod() function
-            Practical Problem solving
+            compound operations
 
 [class 04](link)
 
-            Working with comple numbers
+            Practical Problem solving
+            Working with complex numbers
             abs() function
             Operator precedence in arithmetic operations
