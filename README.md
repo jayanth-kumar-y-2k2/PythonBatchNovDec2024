@@ -128,10 +128,16 @@ To create new branch
 [class 06](link)
 
         string attributes
+
+[class 07](link)
+
+        string attributes
         String formatting: old & new styles,
         f-strings
         bytearray() and byte() strings
         unicode strings
+
+
 
 
 
