@@ -120,5 +120,19 @@ To create new branch
 
 [class 05](link)
 
-    
+    String operations
+        Usage of single, double, and triple quotes
+        len() function
+        Indexing and Slicing Strings
+
+[class 06](link)
+
+        string attributes
+        String formatting: old & new styles,
+        f-strings
+        bytearray() and byte() strings
+        unicode strings
+
+
+
 
