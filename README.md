@@ -147,9 +147,3 @@ To create new branch
     03.Language Components
         Relational Operations
         Logical Operations
-
-
-
-
-
-
