@@ -132,10 +132,21 @@ To create new branch
 [class 07](link)
 
         string attributes
-        String formatting: old & new styles,
-        f-strings
-        bytearray() and byte() strings
+
+[class 08](link)
+
+        String formatting: old & new styles, f-strings
         unicode strings
+
+[class 09](link)
+
+        bytearray() and byte() strings
+        Usage of help
+        Usage of pydoc
+    
+    03.Language Components
+        Relational Operations
+        Logical Operations
 
 
 
