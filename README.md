@@ -147,3 +147,14 @@ To create new branch
     03.Language Components
         Relational Operations
         Logical Operations
+
+[class 10](link)
+
+        Boolean Operations
+        Bitwise Operations
+        Identity Operations
+            Dual Memory management Strategy
+        range() function
+        Conditional Operations
+
+        
