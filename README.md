@@ -178,3 +178,12 @@ To create new branch
             warnings
 
 [class 13](link)
+
+        05.Debugging
+            Importance of logical errors
+            Debugging with pydevd
+            Debugging with pdb, ipdb
+            breakpoint() function
+            PYTHONBREAKPOINT environment variable usage
+            post analyses of executed script
+            
