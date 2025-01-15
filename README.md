@@ -157,4 +157,9 @@ To create new branch
         range() function
         Conditional Operations
 
-        
+[class 11](link)
+
+            Structural Pattern Matching
+            Loops: for & while, break, continue, pass, sys.exit
+        # Assignment: Try these break, continue, pass, on a for loop example
+
