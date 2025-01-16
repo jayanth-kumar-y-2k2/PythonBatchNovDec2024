@@ -194,4 +194,11 @@ To create new branch
 
 [class 15](link)
 
-        
+            Copy Problem - shallow copy vs deepcopy
+            Tuples & namedtuples
+            Immutability & unpacking
+            Sets
+                attributes, operations
+
+[class 16](link)
+
