@@ -202,3 +202,9 @@ To create new branch
 
 [class 16](link)
 
+            fronzensets
+            Dictionaries
+                zip() function
+                workaround for switch case
+            Comprehensions
+            Working with Iterables - sum(), max(), min()
