@@ -208,3 +208,16 @@ To create new branch
                 workaround for switch case
             Comprehensions
             Working with Iterables - sum(), max(), min()
+
+[class 17](link)
+
+        07.Functions
+           Functions with & without arguments, keyword arguments
+        Functions with Different return types and unpacking
+        Functions with with Default arguments
+        variadic functions : variable arguments and variable keyword arguments
+        Functions with keyword only arguments
+        Scoping: Global vs Local
+        call by reference
+        call by value
+
