@@ -243,3 +243,11 @@ To create new branch
             functools - wrap, lru_cache
             class decorator
 
+[class 20](link)
+
+        09.Iterables, Iterators, Generators and co-routines
+            Iterables
+                different ways of extracting values from iterables
+            Iterators
+                iter() protocol
+                itertools module
