@@ -251,3 +251,11 @@ To create new branch
             Iterators
                 iter() protocol
                 itertools module
+
+[class 21](link)
+
+                Generators
+                yield vs return
+                function vs Generator
+                Generator pipelining
+                Generator Expression
