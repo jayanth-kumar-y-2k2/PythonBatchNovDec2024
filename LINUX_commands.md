@@ -43,3 +43,13 @@ To directly run a executable file
     ./file_name.py 
     # Make sure to have "#!usr/bin/python3" in the python script
 
+To get the location of a module
+
+    which <module-name>
+    Ex: which python
+    # In windows where python
+
+To get the help in LINUX 
+
+    man ls
+
