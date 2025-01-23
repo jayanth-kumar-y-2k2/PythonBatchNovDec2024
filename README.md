@@ -61,6 +61,46 @@ To create new branch
 
     git checkout -b <NEW BRANCH NAME>
 
+## Virtual Environment
+
+    Isolated environment 
+
+    why needed
+        - same system, multiple projects
+            - different python versions 
+            - same python verison, but different module versions
+
+    How to create Virtual Environment 
+        - Virtualenv
+        - venv
+        - pipenv
+        - poetry 
+        - uv
+
+    Using Virtualenv
+        
+        Install
+            pip install virtualenv
+        
+        create virtual environment
+            python -m virtualenv .venv
+        
+        activate virtual environment
+            linux
+                source .venv/bin/activate
+
+            windows
+                .venv/script/activate
+
+    Using Poetry
+        pip install -U pip
+        pip install poetry
+        python -m poetry init
+        python -m poetry shell
+
+        pip install poetry
+        poetry add pandas        
+
 ## Course Completed
 
 [class 00](link)
@@ -259,3 +299,17 @@ To create new branch
                 function vs Generator
                 Generator pipelining
                 Generator Expression
+
+[class 22](link)
+
+            Coroutine
+            Generator vs Coroutine
+            coroutine pipelining
+
+        10.Modules
+            Basic Modules
+                - math, sys, argparse
+
+[class 23](link)
+
+    
