@@ -53,3 +53,15 @@ To get the help in LINUX
 
     man ls
 
+To get the present working directory
+
+    pwd
+
+To list out the hidden files as well 
+
+    ls -a
+
+To get the configuration
+
+    ifconfig
+

@@ -16,6 +16,10 @@ To create a branch:
 
     git checkout -b class01
 
+To checkout to an existing branch
+
+    git checkout <branch-name>
+
 To see the latest local changes:
 
     git status
@@ -312,4 +316,7 @@ To create new branch
 
 [class 23](link)
 
-    
+                os, pathlib, psutil
+
+[class 24](link)
+
