@@ -327,3 +327,13 @@ To create new branch
                 - random, collections, atexit, contextlib, base64
 
 [class 25](link)
+
+            create user-defined module
+            creating user-defined package
+            packaging
+            creating the wheel files, tar files
+            publishing with twine
+            egg files
+
+        11.File Operations
+            flat files
