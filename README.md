@@ -320,3 +320,10 @@ To create new branch
 
 [class 24](link)
 
+                shutil, subprocess, getpass
+            time related
+                - time, datetime, pytz, timeit, calendar
+            others
+                - random, collections, atexit, contextlib, base64
+
+[class 25](link)
