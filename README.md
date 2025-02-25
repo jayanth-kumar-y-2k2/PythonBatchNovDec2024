@@ -343,3 +343,18 @@ To create new branch
                 profiling
                 Objgraph
                 doctest
+
+[class 34](link)
+
+                    unittest
+                    pytest
+
+                16. AWS Cloud
+
+                    AWS Development setup 
+                    AWS CLI setup and usage
+                    AWS IAM 
+                        creation of Users, Groups, and assiging policies    
+
+[class 35](link)
+
