@@ -338,6 +338,17 @@ To create new branch
         11. File Operations
             flat files
 
+[class 28](link)
+
+        12.Logging
+            Simple logging
+            Configuring log file
+            formatting logs and adding timestamp
+            working with file handler and stream handler
+            configuring multiple handlers
+            color logging
+            Rotating logger
+
 [class 33](link)
 
                 profiling
